@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 👨‍💻 All of my projects are available at [https://warm-biscochitos-8dd2d7.netlify.app/](https://warm-biscochitos-8dd2d7.netlify.app/)
+- 👨‍💻 My Portfolio [https://warm-biscochitos-8dd2d7.netlify.app/](https://warm-biscochitos-8dd2d7.netlify.app/)
 
 - 📫 How to reach me **omkarpatil8499@gmail.com**
 
