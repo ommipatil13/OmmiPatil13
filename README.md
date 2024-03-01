@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ommipatil13&label=Profile%20views&color=0e75b6&style=flat" alt="ommipatil13" /> </p>
+
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
