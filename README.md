@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommipatil13&label=Profile%20views&color=b60e21&style=flat" alt="ommipatil13" /> </p>
 
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">MERN Stack.</h3>
 
 - 👨‍💻 My Portfolio [https://warm-biscochitos-8dd2d7.netlify.app/](https://warm-biscochitos-8dd2d7.netlify.app/)
 
