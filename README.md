@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <h3 align="center">MERN Stack.</h3>
 
-- 👨‍💻 My Portfolio [https://warm-biscochitos-8dd2d7.netlify.app/](https://warm-biscochitos-8dd2d7.netlify.app/)
+- 👨‍💻 My Portfolio https://omkar-patil-51.netlify.app/
 
 - 📫 How to reach me **omkarpatil8499@gmail.com**
 
