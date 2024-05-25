@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ommipatil13&label=Profile%20views&color=b60e21&style=flat" alt="ommipatil13" /> </p>
 
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Omkar Patil</h1>
 <h3 align="center">MERN Stack.</h3>
 
@@ -7,7 +8,6 @@
 
 - 📫 How to reach me **omkarpatil8499@gmail.com**
 
-# 💫 About Me:
 Hello I am Omkar Patil<br><br>👨‍💻 My Portfolio https://omkar-patil-51.netlify.app/<br><br>📫 How to reach me omkarpatil8499@gmail.com<br><br>
 
 
